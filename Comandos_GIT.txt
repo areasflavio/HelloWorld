@@ -16,7 +16,7 @@ $ git commit -m "mensagem_de_commit"
 $ git remote add origin <servidor>
 // adiciona o repositório remoto
 
-$ git push origin master
+$ git push
 // envia os arquivos ao repositório remoto
 
 $ git status
