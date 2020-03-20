@@ -1,0 +1,23 @@
+
+	COMANDOS GITHUB
+
+$ git init
+// criar o repositório
+
+$ git clone <caminho_do_github>
+// copiar um repositório do github
+
+$ git add <nome_do_arquivo>
+//adicionar arquivos ao commit
+
+$ git commit -m "mensagem_de_commit"
+// comita o envio de arquivos
+
+$ git remote add origin <servidor>
+// adiciona o repositório remoto
+
+$ git push origin master
+// envia os arquivos ao repositório remoto
+
+$ git status
+// checa o status do repositório
